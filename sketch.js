@@ -7,7 +7,7 @@ function preload(){
   balloonImage2=loadAnimation("hotairballoon1.png","hotairballoon1.png",
    "hotairballoon1.png","hotairballoon2.png","hotairballoon2.png",
  "hotairballoon2.png","hotairballoon3.png","hotairballoon3.png","hotairballoon3.png");
-  bgImg=loadImage("cityimage.png");
+  bgImg=loadImage("cityImage.png");
 }
 function setup() {
   createCanvas(1350,600);
